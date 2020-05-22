@@ -44,9 +44,13 @@
 			
 				Import items.sql to create the table.
 				
+				
+				
 		Opitial:
 			Result report is supported.Just change SCKEY to yours.
 			See http://sc.ftqq.com/ for further infomation.
+			
+			
 	Running
 	
 	
