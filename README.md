@@ -59,6 +59,7 @@
 		
 			Run get.py firstly to get current questions and answers.Its will be storaged in MySQL.
 			You need to run this when the questions updated everytime.
+			WARNING: DO NOT RUN THIS FILE CONSTANTLY，IT MAY CORRUPT YOUR ACCOURY TO LOWER CAUSE.
 			
 			
 		Using
