@@ -37,12 +37,16 @@
 			
 			
 			
-			Onetime configation:
+		Onetime configation:
 			
 			
 			Database:You need to be prepaired a MySQL Database and enter this infomoation
 			
 				Import items.sql to create the table.
+				
+		Opitial:
+			Result report is supported.Just change SCKEY to yours.
+			See http://sc.ftqq.com/ for further infomation.
 	Running
 	
 	
@@ -68,6 +72,6 @@
 	
 	
 		This scripts can also running with Tencent Serverless Functions. 
-		See https://cloud.tencent.com/document/product/583/ for funther infomation.
+		See https://cloud.tencent.com/document/product/583/ for further infomation.
 		
 			
