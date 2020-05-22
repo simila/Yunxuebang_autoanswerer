@@ -47,7 +47,7 @@
 				
 				
 		Opitial:
-			Result report is supported.Just change SCKEY to yours.
+			Result report to WeChat is supported.Just change SCKEY to yours.
 			See http://sc.ftqq.com/ for further infomation.
 			
 			
