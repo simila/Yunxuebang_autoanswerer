@@ -4,7 +4,7 @@
 ##About
 
 
-	This program is work with CNPC Skills Training and Testing Platform （Powered by Yunxuebang）
+	This script is work with CNPC Skills Training and Testing Platform （Powered by Yunxuebang）
 	Sign and Train daily automation.
 	
 	
@@ -59,13 +59,15 @@
 		
 			Run get.py firstly to get current questions and answers.Its will be storaged in MySQL.
 			You need to run this when the questions updated everytime.
-			WARNING: DO NOT RUN THIS FILE CONSTANTLY，IT MAY CORRUPT YOUR ACCOURY TO LOWER CAUSE.
+			WARNING: DO NOT RUN THIS FILE CONSTANTLY，IT MAY REDUCE YOUR ACCURATE.
 			
 			
 		Using
 		
 		
 			Run index.py
+			If you wants to repeat many times.Run justdo.py . It will default running 20 times to 
+			raise accurate.
 			
 			
 		Attation
