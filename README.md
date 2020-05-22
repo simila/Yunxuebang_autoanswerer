@@ -47,7 +47,8 @@
 		Initialion
 		
 		
-			Run get.py firstly to get current questions and answers.Its will be storaged in MySQL.You need to run this when the questions updated everytime.
+			Run get.py firstly to get current questions and answers.Its will be storaged in MySQL.
+			You need to run this when the questions updated everytime.
 			
 			
 		Using
@@ -59,6 +60,9 @@
 		Attation
 			Everything is configed in index.py and no args use.
 			
-	
+#Others
+	Cloud service supported
+		This scripts can also running with Tencent Serverless Functions. 
+		See https://cloud.tencent.com/document/product/583/ for funther infomation.
 		
 			
